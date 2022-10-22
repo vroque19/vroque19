@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Vanessa Isabel Roque</h1>
 
+![Alt Text](https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif)
+
 # 💫 About Me:
 I'm currently working on building my repository<br>I'm currently learning python, data structures, HTML<br>Fun fact about me is that I like to read
 
@@ -23,3 +25,5 @@ I'm currently working on building my repository<br>I'm currently learning python
 ---
 [![](https://visitcount.itsvg.in/api?id=vroque19&icon=3&color=0)](https://visitcount.itsvg.in)
 
+
+<img src="https://img.stipop.io/images/stickers/row2/c8.gif" width="70" height="60" />
