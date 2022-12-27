@@ -3,7 +3,7 @@
 ![Alt Text](https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif)
 
 # 💫 About Me:
-I'm currently working on building my repository<br>I'm currently learning data structures<br>Fun fact about me is that I like to read
+Second year student studying computer engineering at CSUF<br>Fun fact about me is that I like to read
  
 
 # 📊 GitHub Stats:
