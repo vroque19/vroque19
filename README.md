@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Vanessa Isabel Roque</h1>
 
-![Alt Text](https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif)
-
 # 💫 About Me:
-Second year student studying computer engineering at CSUF<br>Fun fact about me is that I like to read
+📚 Third year student studying computer engineering at CSUF<br>🤓 Fun fact about me is that I like to read
  
+![Alt Text](https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif)
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=vroque19&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
