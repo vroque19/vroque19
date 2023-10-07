@@ -14,7 +14,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
-![](https://visitcount.itsvg.in/api?id=vroque19&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vroque19&icon=3&color=0)](https://visitcount.itsvg.in)
 
 
 <img src="https://img.stipop.io/images/stickers/row2/c8.gif" width="70" height="60" />
