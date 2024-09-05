@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vanessa Isabel Roque</h1>
 
 
-📚 Third year student studying computer engineering and computer science at CSUF<br>🇰🇷 Studied abroad in South Korea<br>🦕 Fun fact about me is that I like to read
+📚 Fourth year student studying computer engineering and computer science at CSUF<br>🇰🇷 Studied abroad in South Korea<br>🦕 Fun fact about me is that I like to read
  
 ![Alt Text](https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif)
 
