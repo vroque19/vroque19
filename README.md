@@ -12,4 +12,4 @@
 
  Last Updated on 11/11/2024 20:33:32 UTC
 <!--END_SECTION:waka-->
-
+![](https://komarev.com/ghpvc/?username=vroque19&color=b2a3dc&style=flat-square)
