@@ -35,16 +35,19 @@ Sunday                   198 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    40 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   69.11 % 
+C                        18 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Notes                    40 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   69.11 % 
+VS Code                  18 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.89 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      40 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   69.11 % 
+Linux                    18 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.89 % 
 ```
 
 
- Last Updated on 01/15/2025 08:45:09 UTC
+ Last Updated on 01/15/2025 09:40:49 UTC
 <!--END_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=vroque19&color=b2a3dc&style=flat-square)
